@@ -22,6 +22,8 @@ Outline your approach to solving the problem, including any insights or justific
 ```[language]
 // Code snippet or reference to the file in the folder
 ```
+or list of links to files like:
+- [Solution 1](./solution_1.ext)
 
 ## Complexity Analysis
 
