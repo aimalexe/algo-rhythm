@@ -1,7 +1,4 @@
-Here's a detailed README.md for the "Merge Two Sorted Lists" problem, using the provided template:
-
-```markdown
-# Problem Number and Title: 21. Merge Two Sorted Lists
+# Problem 21: Merge Two Sorted Lists
 
 **Problem Link**: [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
 
