@@ -18,12 +18,13 @@ Outline your approach to solving the problem, including any insights or justific
 1. 
 
 ## Code
-
+List of links to files like:
+- [Solution 1](./solution_1.ext)
+- [Solution 2](./solution_2.ext)
+or give snippets if short but not both
 ```[language]
 // Code snippet or reference to the file in the folder
 ```
-or list of links to files like:
-- [Solution 1](./solution_1.ext)
 
 ## Complexity Analysis
 
