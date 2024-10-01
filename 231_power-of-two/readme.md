@@ -1,5 +1,3 @@
-Here’s a README for the solutions to LeetCode problem number **231: Power of Two**, encompassing all three approaches provided.
-
 # Problem 231: Power of Two
 
 **Problem Link**: [LeetCode 231: Power of Two](https://leetcode.com/problems/power-of-two/)

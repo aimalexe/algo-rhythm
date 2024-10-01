@@ -1,4 +1,4 @@
-# Problem Number and Title
+# Problem [NNN]: [Title]
 
 **Problem Link**: [Link here](#)
 
